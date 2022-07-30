@@ -1,3 +1,4 @@
 print("Hello world")
 print("Hello everybody")
 print("Hello to you")
+print("I'm very clever. I did it. So, I can go to sleep now. That's why I'm very happy now!")
