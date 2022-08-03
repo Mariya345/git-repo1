@@ -5,3 +5,4 @@ print("I'm very clever. I did it. So, I can go to sleep now. That's why I'm very
 print("Hello;")
 print("Hello my dear friend;")
 print("Glad to see you;")
+print("What's up?")
